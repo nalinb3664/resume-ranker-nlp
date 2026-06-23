@@ -1,0 +1,399 @@
+[
+    {
+        "job_description": "c",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_7.pdf",
+                "score": 100.0,
+                "rank": 1
+            }
+        ],
+        "timestamp": "2026-04-18 00:30:16"
+    },
+    {
+        "job_description": "c",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_7.pdf",
+                "score": 100.0,
+                "rank": 1
+            }
+        ],
+        "timestamp": "2026-04-18 00:30:25"
+    },
+    {
+        "job_description": "c",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_7.pdf",
+                "score": 100.0,
+                "rank": 1
+            },
+            {
+                "filename": "Engineering_Resume_10.pdf",
+                "score": 94.07,
+                "rank": 2
+            },
+            {
+                "filename": "Engineering_Resume_2.pdf",
+                "score": 62.41,
+                "rank": 4
+            }
+        ],
+        "timestamp": "2026-04-18 00:31:09"
+    },
+    {
+        "job_description": "c",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_7.pdf",
+                "score": 100.0,
+                "rank": 1
+            },
+            {
+                "filename": "Engineering_Resume_10.pdf",
+                "score": 94.07,
+                "rank": 2
+            },
+            {
+                "filename": "Engineering_Resume_3.pdf",
+                "score": 72.39,
+                "rank": 3
+            },
+            {
+                "filename": "Engineering_Resume_2.pdf",
+                "score": 62.41,
+                "rank": 4
+            }
+        ],
+        "timestamp": "2026-04-18 00:37:43"
+    },
+    {
+        "job_description": "java",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_8.pdf",
+                "score": 93.12,
+                "rank": 2
+            }
+        ],
+        "timestamp": "2026-04-18 00:37:57"
+    },
+    {
+        "job_description": "java",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_10.pdf",
+                "score": 21.95,
+                "rank": 3
+            }
+        ],
+        "timestamp": "2026-04-18 00:43:14"
+    },
+    {
+        "job_description": "java",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_10.pdf",
+                "score": 21.95,
+                "rank": 3
+            }
+        ],
+        "timestamp": "2026-04-18 00:43:44"
+    },
+    {
+        "job_description": "java",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_10.pdf",
+                "score": 21.95,
+                "rank": 3
+            },
+            {
+                "filename": "Engineering_Resume_7.pdf",
+                "score": 21.33,
+                "rank": 4
+            },
+            {
+                "filename": "Engineering_Resume_9.pdf",
+                "score": 17.67,
+                "rank": 5
+            }
+        ],
+        "timestamp": "2026-04-18 00:45:43"
+    },
+    {
+        "job_description": "java",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_10.pdf",
+                "score": 21.95,
+                "rank": 3
+            },
+            {
+                "filename": "Engineering_Resume_7.pdf",
+                "score": 21.33,
+                "rank": 4
+            },
+            {
+                "filename": "Engineering_Resume_9.pdf",
+                "score": 17.67,
+                "rank": 5
+            }
+        ],
+        "timestamp": "2026-04-18 00:48:37"
+    },
+    {
+        "job_description": "java",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_9.pdf",
+                "score": 17.67,
+                "rank": 5
+            },
+            {
+                "filename": "Engineering_Resume_2.pdf",
+                "score": 16.71,
+                "rank": 6
+            }
+        ],
+        "timestamp": "2026-04-18 00:50:30"
+    },
+    {
+        "job_description": "sql",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_2.pdf",
+                "score": 100.0,
+                "rank": 1
+            },
+            {
+                "filename": "Engineering_Resume_6.pdf",
+                "score": 79.93,
+                "rank": 3
+            }
+        ],
+        "timestamp": "2026-04-18 00:53:56"
+    },
+    {
+        "job_description": "sql",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_2.pdf",
+                "score": 100.0,
+                "rank": 1
+            },
+            {
+                "filename": "Engineering_Resume_6.pdf",
+                "score": 79.93,
+                "rank": 3
+            }
+        ],
+        "timestamp": "2026-04-18 00:57:56"
+    },
+    {
+        "job_description": "sql",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_2.pdf",
+                "score": 100.0,
+                "rank": 1
+            },
+            {
+                "filename": "Engineering_Resume_3.pdf",
+                "score": 8.23,
+                "rank": 6
+            }
+        ],
+        "timestamp": "2026-04-18 00:58:17"
+    },
+    {
+        "job_description": "sql",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_3.pdf",
+                "score": 8.23,
+                "rank": 6
+            }
+        ],
+        "timestamp": "2026-04-18 00:58:30"
+    },
+    {
+        "job_description": "sql",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_3.pdf",
+                "score": 8.23,
+                "rank": 6
+            }
+        ],
+        "timestamp": "2026-04-18 00:58:48"
+    },
+    {
+        "job_description": "sql",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_9.pdf",
+                "score": 6.75,
+                "rank": 7
+            }
+        ],
+        "timestamp": "2026-04-18 01:01:15"
+    },
+    {
+        "job_description": "sql",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_9.pdf",
+                "score": 6.75,
+                "rank": 7
+            }
+        ],
+        "timestamp": "2026-04-18 01:01:25"
+    },
+    {
+        "job_description": "ai",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_6.pdf",
+                "score": 100.0,
+                "rank": 1
+            }
+        ],
+        "timestamp": "2026-04-18 01:09:22"
+    },
+    {
+        "job_description": "ai",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_6.pdf",
+                "score": 100.0,
+                "rank": 1
+            }
+        ],
+        "timestamp": "2026-04-18 01:09:55"
+    },
+    {
+        "job_description": "aws",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_8.pdf",
+                "score": 87.75,
+                "rank": 4
+            }
+        ],
+        "timestamp": "2026-04-21 10:33:50"
+    },
+    {
+        "job_description": "aws",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_8.pdf",
+                "score": 87.75,
+                "rank": 4
+            }
+        ],
+        "timestamp": "2026-04-21 10:34:34"
+    },
+    {
+        "job_description": "aws",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_4.pdf",
+                "score": 11.87,
+                "rank": 6
+            }
+        ],
+        "total_selected": 1,
+        "timestamp": "2026-04-21 10:40:38"
+    },
+    {
+        "job_description": "devops\n",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_8.pdf",
+                "score": 100.0,
+                "rank": 1
+            }
+        ],
+        "total_selected": 1,
+        "timestamp": "2026-04-21 10:50:43"
+    },
+    {
+        "job_description": "devops\n",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_8.pdf",
+                "score": 100.0,
+                "rank": 1
+            }
+        ],
+        "total_selected": 1,
+        "timestamp": "2026-04-21 10:51:00"
+    },
+    {
+        "job_description": "mechanical",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_7.pdf",
+                "score": 19.67,
+                "rank": 3
+            }
+        ],
+        "total_selected": 1,
+        "timestamp": "2026-04-21 10:59:07"
+    },
+    {
+        "job_description": "mechanical",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_10.pdf",
+                "score": 24.63,
+                "rank": 2
+            },
+            {
+                "filename": "Engineering_Resume_7.pdf",
+                "score": 19.67,
+                "rank": 3
+            }
+        ],
+        "total_selected": 2,
+        "timestamp": "2026-04-21 11:00:45"
+    },
+    {
+        "job_description": "data engineer",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_10.pdf",
+                "score": 91.59,
+                "rank": 2
+            }
+        ],
+        "total_selected": 1,
+        "timestamp": "2026-04-21 11:27:13"
+    },
+    {
+        "job_description": "java",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_8.pdf",
+                "score": 93.12,
+                "rank": 2
+            }
+        ],
+        "total_selected": 1,
+        "timestamp": "2026-04-21 12:27:33"
+    },
+    {
+        "job_description": "embedded",
+        "selected_profiles": [
+            {
+                "filename": "Engineering_Resume_9.pdf",
+                "score": 100.0,
+                "rank": 1
+            }
+        ],
+        "total_selected": 1,
+        "timestamp": "2026-04-21 12:30:43"
+    }
+]
